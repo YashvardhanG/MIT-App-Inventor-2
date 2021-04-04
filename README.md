@@ -46,23 +46,29 @@ Here's a list of projects included:
 You may head on to the further sections in order to explore and know about them!
 
 ### Health
+<br><br>
 <p align="center">
   <img src = "Images/Heart.svg" width="250" height="250">
 </p>
 A usual health app which calulates BMI, Steps, Calorie count and, further has some features.
 <br>You may add new features, change the prexisting backgrounds and do whatever you want!
+<br>
 
 ### Memo
+<br><br>
 <p align="center">
   <img src = "Images/Memo.svg" width="250" height="250">
 </p>
 Stores and Reviews back Memos using TinyDB.
+<br>
 
 ### Doodle
+<br><br>
 <p align="center">
   <img src = "Images/Doodle.svg" width="250" height="250">
 </p>
 You can scribble and then shake the phone to clear the screen.
+<br>
 
 <!-- LICENSE -->
 ## License

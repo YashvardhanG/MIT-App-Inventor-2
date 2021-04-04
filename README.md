@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Yashvardhang/MIT-App-Inventor-2">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="Images/Android.svg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">MIT App Inventor 2</h3>
@@ -26,8 +26,8 @@
         <li><a href="#doodle">Doodle</a></li>
       </ul>
     </li>
-    <li><a href="#contribute">License</a></li>
     <li><a href="#license">License</a></li>
+    <li><a href="#contributions">Contributions</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -45,21 +45,34 @@ Here's a list of projects included:
 
 You may head on to the further sections in order to explore and know about them!
 
-### health
+### Health
+<p align="center">
+  <img src = "Images/Heart.svg" width="80" height="80">
+</p>
+A usual health app which calulates BMI, Steps, Calorie count and, further has some features.
+<br>You may add new features, change the prexisting backgrounds and do whatever you want!
 
+### Memo
+<p align="center">
+  <img src = "Images/Memo.svg" width="80" height="80">
+</p>
+Stores and Reviews back Memos using TinyDB.
 
-
-### memo
-
-
-
-### doodle
-
+### Doodle
+<p align="center">
+  <img src = "Images/Doodle.svg" width="80" height="80">
+</p>
+You can scribble and then shake the phone to clear the screen.
 
 <!-- LICENSE -->
 ## License
 
-Comple
+Completely free, just fork and use! ;)
+
+<!-- CONTRIBUTIONS -->
+## Contributions
+
+Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
 
 <!-- CONTACT -->
 ## Contact

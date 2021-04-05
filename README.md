@@ -36,7 +36,7 @@
 <!-- ABOUT THE PROJECT -->
 ## List of Projects
 
-These projecrs with made with limited resources a million years ago, so don't mind the graphics and pictures in these projects.
+These projects with made with limited resources a million years ago, so don't mind the graphics and pictures in these projects.
 
 Here's a list of projects included:
 * **Health App - 'Run'**
@@ -50,8 +50,8 @@ You may head on to the further sections in order to explore and know about them!
 <p align="center">
   <img src = "Images/Heart.svg" width="250" height="250">
 </p>
-A usual health app which calulates BMI, Steps, Calorie count and, further has some features.
-<br>You may add new features, change the prexisting backgrounds and do whatever you want!
+A usual health app that calculates BMI, Steps, Calorie count and, further has some features.
+<br>You may add new features, change the preexisting backgrounds and do whatever you want!
 <br>
 
 ### Memo

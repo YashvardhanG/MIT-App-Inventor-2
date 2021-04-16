@@ -85,6 +85,6 @@ Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from
 
 <p align="center">
   <br>
-  <img src="Icons/Spiral Cosmos.png" alt="Logo" width="150" height="140"><br><br>
-  <a href = "https://github.com/YashvardhanG/YashvardhanG/blob/main/Spiral%20Cosmos.png">Spiral Cosmos</a>
+  <img src="https://github.com/YashvardhanG/YashvardhanG/blob/main/Spiral%20Cosmos.png" alt="Logo" width="150" height="140"><br><br>
+  <a href = "https://www.spiralcosmos.com">Spiral Cosmos</a>
 </p>

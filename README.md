@@ -48,7 +48,7 @@ You may head on to the further sections in order to explore and know about them!
 ### Health
 <br><br>
 <p align="center">
-  <img src = "Images/Heart.svg" width="250" height="250">
+  <img src = "Images/Heart.svg" width="150" height="150">
 </p>
 A usual health app that calculates BMI, Steps, Calorie count and, further has some features.
 <br>You may add new features, change the preexisting backgrounds and do whatever you want!
@@ -57,7 +57,7 @@ A usual health app that calculates BMI, Steps, Calorie count and, further has so
 ### Memo
 <br><br>
 <p align="center">
-  <img src = "Images/Memo.svg" width="250" height="250">
+  <img src = "Images/Memo.svg" width="150" height="150">
 </p>
 Stores and Reviews back Memos using TinyDB.
 <br>
@@ -65,7 +65,7 @@ Stores and Reviews back Memos using TinyDB.
 ### Doodle
 <br><br>
 <p align="center">
-  <img src = "Images/Doodle.svg" width="250" height="250">
+  <img src = "Images/Doodle.svg" width="150" height="150">
 </p>
 You can scribble and then shake the phone to clear the screen.
 <br>
@@ -83,5 +83,8 @@ Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from
 <!-- CONTACT -->
 ## Contact
 
-Head on to: <a href = "www.spiralcosmos.com">Spiral Cosmos</a>
-
+<p align="center">
+  <br>
+  <img src="Icons/Spiral Cosmos.png" alt="Logo" width="150" height="140"><br><br>
+  <a href = "https://github.com/YashvardhanG/YashvardhanG/blob/main/Spiral%20Cosmos.png">Spiral Cosmos</a>
+</p>

@@ -27,8 +27,9 @@
       </ul>
     </li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contributions">Contributions</a></li>
+    <li><a href="#contribute">Contribute</a></li>
     <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -73,12 +74,21 @@ You can scribble and then shake the phone to clear the screen.
 <!-- LICENSE -->
 ## License
 
-Completely free, just fork and use! ;)
+Distributed under the MIT License. See <a href = "https://github.com/YashvardhanG/MIT-App-Inventor-2/blob/main/LICENSE"> LICENSE </a> for more information.
 
-<!-- CONTRIBUTIONS -->
-## Contributions
+<!-- contribute -->
+## Contribute
 
-Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+Every program is ever evolving and, that is possible only with valuable contributions. Any contributions you make are greatly appreciated. 
+<ol>
+  <li>Fork the Project</li>
+  <li>Create your Feature Branch (git checkout -b functionalities/Feature)</li>
+  <li>Commit your Changes (git commit -m 'Add a Feature')</li>
+  <li>Push to the Branch (git push origin functionalities/Feature)</li>
+  <li>Open a Pull Request</li>
+</ol>
+
+<br>If you have any further ideas or comments, go ahead to the next section and feel free to connect! 
 
 <!-- CONTACT -->
 ## Contact
@@ -88,4 +98,13 @@ Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from
   <img src="https://github.com/YashvardhanG/YashvardhanG/blob/main/Spiral%20Cosmos.png" alt="Logo" width="155" height="140"><br><br>
   <a href = "https://www.spiralcosmos.com">Spiral Cosmos</a>
 </p>
+
+<!-- Acknowledgement -->
+## Acknowledgements
+
+<ul>
+  <li><a href = "https://www.freepik.com">Freepik</a></li>
+  <li><a href = "https://www.flaticon.com/">Flaticons</a></li>
+</ul>
+
 
